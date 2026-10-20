@@ -484,6 +484,15 @@ img {
         text-align: left;
     }
 
+    .description-list li,
+    .experience-content .description {
+        text-align: left;
+    }
+
+    .contact-content > p {
+        white-space: normal;
+    }
+
     .social-links {
         justify-content: center;
     }
